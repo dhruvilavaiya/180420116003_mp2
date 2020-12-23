@@ -17,7 +17,7 @@ body {
 
 .main-container {
     border: 0.1rem solid var(--mainWhite);
-    box-shadow: 0 0.5rem 0.5rem rgba(0, 0, 0, 0.9);
+    box-shadow: 0 0.5rem 0.5rem rgb(245 228 1 / 90%);;
     border-radius: 0.2rem;
 }
 
